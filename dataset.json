@@ -1,0 +1,27 @@
+[
+    {
+        "hospitalName": "Palakkad Jilla Hospital",
+        "hospitalLocation": "Palakkad",
+        "patientCount": "800"
+    },
+    {
+        "hospitalName": "K.P Hospital",
+        "hospitalLocation": "Olavakode",
+        "patientCount": "200"
+    },
+    {
+        "hospitalName": "P.K Das Hospital",
+        "hospitalLocation": "Vaaniyamkulam",
+        "patientCount": "500"
+    },
+    {
+        "hospitalName": "Seventh Day Hospital",
+        "hospitalLocation": "Olavakkode",
+        "patientCount": "900"
+    },
+    {
+        "hospitalName": "Ahalya Hospital",
+        "hospitalLocation": "Chitoor",
+        "patientCount": "1000"
+    }
+]
